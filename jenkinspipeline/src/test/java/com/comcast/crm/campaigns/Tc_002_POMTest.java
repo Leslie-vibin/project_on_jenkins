@@ -12,7 +12,7 @@ import com.comcast.crm.generic.Webdriverutility.Webdriverutility;
 import com.comcast.crm.generic.fileutility.Excelutility;
 import com.comcast.crm.generic.fileutility.FileUtility;
 
-public class Tc_002_POM extends Baseclass{
+public class Tc_002_POMTest extends Baseclass{
 @Test(groups="st")
 	public void camp() throws Throwable {
 		
